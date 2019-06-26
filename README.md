@@ -1,9 +1,9 @@
-## Welcome to GitHub Pages
-
-You can use the [editor on GitHub](https://github.com/BLOSSOM1994/blossom1994.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
+## به صفحه شخصی من خوش آمدید
+<p dir="rtl" align="right">
+من شکوفه هستم.
+دانشجوی کارشناسی ارشد علوم تصمیم و دانش ، دانشگاه حکیم سبزواری
+کارشناسی خودم رو در دانشگاه فسا گذروندم.
+</p>
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
