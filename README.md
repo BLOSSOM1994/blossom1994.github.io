@@ -1,4 +1,8 @@
 ## به صفحه شخصی من خوش آمدید
+<body>
+ <img src="https://www.google.com/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&ved=2ahUKEwjE2ajjtJfjAhXGsKQKHfVaCJUQjRx6BAgBEAU&url=https%3A%2F%2Fwww.theinvisibletourist.com%2Fbest-time-to-visit-japan-for-cherry-blossoms%2F&psig=AOvVaw0ITkcjVE99jZQMHtqeuqFk&ust=1562197337789503"
+      style="width:100">
+</body>
 <p dir="rtl" align="right">
 من شکوفه هستم.
 <br/>
@@ -8,8 +12,4 @@
  <br/>
   علاقه مند به طراحی سایت و اپلیکشن های موبایلی هستم و سابقه 3 سال تدریس رباتیک و برنامه نویسی میکروکنترل ها رو دارم
 </p>
-[vc_row][vc_column][vc_hoverbox image="213" primary_title="" hover_title="سلام دوست من روز بخیر" css_animation="fadeInLeftBig"]
-<p style="text-align: right;">پنج سال سابقه فعالیت حرفه ای در زمینه طراحی دارم،تسلط کامل به نرم افزارهای فتوشاپ، ایلاستریتور، ایندیزاین و کورل،طراح، گرافیست و صفحه آرای نشریات رباتیکا، جهان هوشمند و تیک،دارای رتبه برگزیدگی ملی از نهمین جشنواره ملی حرکت در زمینه طراحی نشریات،همکاری با همراه اول و بیمه بازار در زمینه طراحی</p>
- [/vc_hoverbox][vc_row_inner][vc_column_inner][vc_separator][/vc_column_inner][/vc_row_inner][/vc_column][/vc_row][vc_row][vc_column][vc_hoverbox image="209" primary_title="" hover_title="سلام دوست من روز بخیر" css_animation="fadeInRight"]سابقه چهار سال فعالیت حرفه ای در زمینه طراحی و همچنین کدنویسی و طراحی سایت های html، php و وردپرس رو دارم، پروژه شما رو به صورت تضمین شده و در کوتاه ترین زمان ممکن انجام خواهم داد، در صورت تمایل در مورد نحوه و مدت زمان انجام کار صحبت کنیم.
 
-[/vc_hoverbox][/vc_column][/vc_row]
