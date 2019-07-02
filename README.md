@@ -7,8 +7,9 @@
 کارشناسی خودم رو در دانشگاه فسا رشته علوم کامپیوتر گذروندم.
  <br/>
   علاقه مند به طراحی سایت و اپلیکشن های موبایلی هستم و سابقه 3 سال تدریس رباتیک و برنامه نویسی میکروکنترل ها رو دارم
-[vc_row][vc_column width="1/4"][/vc_column][vc_column width="1/4"][vc_single_image image="203" img_size="full" alignment="center" style="vc_box_circle_2"][vc_custom_heading text="Thomas Wood" font_container="tag:h4|text_align:center" use_theme_fonts="yes"][vc_column_text]</p>
-<p style="text-align: center;">Team members normally have different roles, like team leader and agents.</p>
-<p>[/vc_column_text][/vc_column][vc_column width="1/4"][vc_single_image image="203" img_size="full" alignment="center" style="vc_box_circle_2"][vc_custom_heading text="Karen Polski" font_container="tag:h4|text_align:center" use_theme_fonts="yes"][vc_column_text]</p>
-<p style="text-align: center;">Large teams can divide into subteams according to need.</p>
-<p>[/vc_column_text][/vc_column][vc_column width="1/4"][/vc_column][/vc_row][vc_row][vc_column][/vc_column][/vc_row]</p>
+</p>
+[vc_row][vc_column][vc_hoverbox image="213" primary_title="" hover_title="سلام دوست من روز بخیر" css_animation="fadeInLeftBig"]
+<p style="text-align: right;">پنج سال سابقه فعالیت حرفه ای در زمینه طراحی دارم،تسلط کامل به نرم افزارهای فتوشاپ، ایلاستریتور، ایندیزاین و کورل،طراح، گرافیست و صفحه آرای نشریات رباتیکا، جهان هوشمند و تیک،دارای رتبه برگزیدگی ملی از نهمین جشنواره ملی حرکت در زمینه طراحی نشریات،همکاری با همراه اول و بیمه بازار در زمینه طراحی</p>
+ [/vc_hoverbox][vc_row_inner][vc_column_inner][vc_separator][/vc_column_inner][/vc_row_inner][/vc_column][/vc_row][vc_row][vc_column][vc_hoverbox image="209" primary_title="" hover_title="سلام دوست من روز بخیر" css_animation="fadeInRight"]سابقه چهار سال فعالیت حرفه ای در زمینه طراحی و همچنین کدنویسی و طراحی سایت های html، php و وردپرس رو دارم، پروژه شما رو به صورت تضمین شده و در کوتاه ترین زمان ممکن انجام خواهم داد، در صورت تمایل در مورد نحوه و مدت زمان انجام کار صحبت کنیم.
+
+[/vc_hoverbox][/vc_column][/vc_row]
