@@ -1,7 +1,7 @@
 ## به صفحه شخصی من خوش آمدید
 <body>
  <img src="https://www.theinvisibletourist.com/wp-content/uploads/2018/01/featured_76.jpg"
-      style="width:100">
+      style="width:100"  align="center"  >
 </body>
 <p dir="rtl" align="right">
 من شکوفه هستم.
